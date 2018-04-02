@@ -1,0 +1,10 @@
+c:\users\edward\documents\visual studio 2015\Projects\My User Validation\My User Validation\bin\Debug\My User Validation.exe.config
+c:\users\edward\documents\visual studio 2015\Projects\My User Validation\My User Validation\bin\Debug\My User Validation.exe
+c:\users\edward\documents\visual studio 2015\Projects\My User Validation\My User Validation\bin\Debug\My User Validation.pdb
+c:\users\edward\documents\visual studio 2015\Projects\My User Validation\My User Validation\bin\Debug\My User Validation.xml
+c:\users\edward\documents\visual studio 2015\Projects\My User Validation\My User Validation\obj\Debug\My_User_Validation.Form1.resources
+c:\users\edward\documents\visual studio 2015\Projects\My User Validation\My User Validation\obj\Debug\My_User_Validation.Resources.resources
+c:\users\edward\documents\visual studio 2015\Projects\My User Validation\My User Validation\obj\Debug\My User Validation.vbproj.GenerateResource.Cache
+c:\users\edward\documents\visual studio 2015\Projects\My User Validation\My User Validation\obj\Debug\My User Validation.exe
+c:\users\edward\documents\visual studio 2015\Projects\My User Validation\My User Validation\obj\Debug\My User Validation.xml
+c:\users\edward\documents\visual studio 2015\Projects\My User Validation\My User Validation\obj\Debug\My User Validation.pdb
